@@ -57,4 +57,3 @@ Project ini merupakan aplikasi web yang dibangun menggunakan arsitektur **Model-
 
 - **Antarmuka Responsif:**
   - Tampilan antarmuka modern dan responsif untuk perangkat desktop maupun mobile menggunakan Bootstrap 5.
-# ci4-vibe-coding-test
